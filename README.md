@@ -1,5 +1,5 @@
 # The_Math_of_Intelligence
-This is the Syllabus for Siraj Raval's new course "The Math of Intelligence"
+This is the Syllabus for Siraj Raval's new course [The Math of Intelligence] (https://www.youtube.com/playlist?list=PL2-dafEMk2A7mu0bSksCGMJEmeddU_H4D)
 
 Each week has a short video (released on Friday) and an associated longer video (released on Wednesday). So each weeks short video is in bold and the longer video is underneath.
 
