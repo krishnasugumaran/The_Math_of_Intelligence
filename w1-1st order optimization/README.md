@@ -1,5 +1,5 @@
 
-##  Gradient Descent Implementation coding challenge 
+##  Gradient Descent Implementation
 Coding Challenge [link](https://github.com/llSourcell/Intro_to_the_Math_of_intelligence)
 
 This week's coding challenge is to implement gradient descent to find the line of best fit that predicts the relationship between 2 variables of your choice from a  [kaggle](https://www.kaggle.com/datasets) dataset
