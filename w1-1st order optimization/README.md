@@ -6,7 +6,7 @@ This week's coding challenge is to implement gradient descent to find the line o
 
 ### Submissions
 1. iPython Notebook
-2. HTML version of the Notebook (for better viewing of plots)
+2. pdf version of the Notebook (for better viewing of plots)
 
 ## Python package deps
 * numpy
